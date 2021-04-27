@@ -1,0 +1,11 @@
+C:\Users\Franklin_Maturana\Documents\Curso C#\Fundamentos de Net Core 2018\Etapa1\bin\Debug\netcoreapp2.1\Etapa1.deps.json
+C:\Users\Franklin_Maturana\Documents\Curso C#\Fundamentos de Net Core 2018\Etapa1\bin\Debug\netcoreapp2.1\Etapa1.runtimeconfig.json
+C:\Users\Franklin_Maturana\Documents\Curso C#\Fundamentos de Net Core 2018\Etapa1\bin\Debug\netcoreapp2.1\Etapa1.runtimeconfig.dev.json
+C:\Users\Franklin_Maturana\Documents\Curso C#\Fundamentos de Net Core 2018\Etapa1\bin\Debug\netcoreapp2.1\Etapa1.dll
+C:\Users\Franklin_Maturana\Documents\Curso C#\Fundamentos de Net Core 2018\Etapa1\bin\Debug\netcoreapp2.1\Etapa1.pdb
+C:\Users\Franklin_Maturana\Documents\Curso C#\Fundamentos de Net Core 2018\Etapa1\obj\Debug\netcoreapp2.1\Etapa1.csprojAssemblyReference.cache
+C:\Users\Franklin_Maturana\Documents\Curso C#\Fundamentos de Net Core 2018\Etapa1\obj\Debug\netcoreapp2.1\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\Franklin_Maturana\Documents\Curso C#\Fundamentos de Net Core 2018\Etapa1\obj\Debug\netcoreapp2.1\Etapa1.AssemblyInfoInputs.cache
+C:\Users\Franklin_Maturana\Documents\Curso C#\Fundamentos de Net Core 2018\Etapa1\obj\Debug\netcoreapp2.1\Etapa1.AssemblyInfo.cs
+C:\Users\Franklin_Maturana\Documents\Curso C#\Fundamentos de Net Core 2018\Etapa1\obj\Debug\netcoreapp2.1\Etapa1.dll
+C:\Users\Franklin_Maturana\Documents\Curso C#\Fundamentos de Net Core 2018\Etapa1\obj\Debug\netcoreapp2.1\Etapa1.pdb
